@@ -1,0 +1,4 @@
+# Project exclude paths
+/src/index.js
+/src/todoCollections.js
+/src/todoItem.js
